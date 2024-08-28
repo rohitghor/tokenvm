@@ -225,7 +225,7 @@ continue (y/n): y
 ```
 
 #### Step 3: View Your Balance
-Now, let's check that the mint worked right by checking our balance. You can do
+Now, let's check that the mint work right by checking our balance. You can do
 so by running the following command from this location:
 ```bash
 ./build/token-cli key balance
